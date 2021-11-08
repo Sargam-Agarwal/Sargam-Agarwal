@@ -4,11 +4,13 @@
 
 <h3 align="left">👩🏻‍💻 About Me :</h3>
 
+-  🙋‍♀️ Im a 3rd year undergrad pursuing BTech with CSE.
+
 - 💻  I’m currently exploring and developing apps with **Flutter framework.**
 
 - 🤝 Always open to having fun collaborating on building **real world apps.**
 
-- 🎯 I’m looking for an internship where **I could bridge the gap between my academic skills and practical professional development.**
+- 🎯 I’m looking for a **relevant Flutter Internship where I can enhance my development skills and take it to a more professional level**
 
 - 👩🏻 Pronouns **She / Her**
 
